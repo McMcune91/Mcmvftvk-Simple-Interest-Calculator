@@ -1,7 +1,6 @@
 body {background-color:black;font-family:arial;color:white}
 h1{color:grey;font-family:verdana}
-
-.maindiv {background-color:black;font-family:arial;color:white}
+.maindiv {background-color:white;font-family:arial;color:black}
 .maindiv {
     width:300px;
     padding: 20px;
