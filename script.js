@@ -19,7 +19,15 @@ function compute() {
             + 'in the year ' + '<mark>' + year + '</mark>'
     }
 }
+
+
 function updateRate() {
     var rateval = document.getElementById("rate").value;
     document.getElementById("rate_val").innerText = rateval + '%';
-        
+}
+
+
+
+
+  
+
